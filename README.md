@@ -8,9 +8,9 @@
 
 This is a fork of the [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) repo modified for our kafka project
 
-UI: [react-kafka](https://github.com/DevVex/react-kafka)
-Java API: [kafka-producer-api](https://github.com/shameelkh/kafka-producer-api.git)
-NodeJS Consumer: [kafka-node-consumer](https://github.com/pureooze/kafka-node-consumer)
+* UI: [react-kafka](https://github.com/DevVex/react-kafka)
+* Java API: [kafka-producer-api](https://github.com/shameelkh/kafka-producer-api.git)
+* NodeJS Consumer: [kafka-node-consumer](https://github.com/pureooze/kafka-node-consumer)
 
 Dockerfile for [Apache Kafka](http://kafka.apache.org/)
 
